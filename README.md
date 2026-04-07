@@ -28,8 +28,6 @@ PhiltzのClaude Team内で使用されているスキルを`.skill`と`SKILL.md`
 | Dialectical Inquiry | Hegel / Mason（1969）弁証法的探究。テーゼ→アンチテーゼ→ジンテーゼの三段階で、ユーザーの知識内の矛盾や対立を建設的に統合する。 |
 | Google Analytics | Google Analyticsの同意シグナルとCookieハンドリング規則を強制する。 |
 | Keep Latest Remote | ローカルブランチをリモートと最新に保つ。git操作時に自動発動。 |
-| MCP Scanner | 接続中のMCPサーバーをスキャンし、コンテキスト消費量を報告。コストの高いMCPの無効化・削除を提案する。 |
-| Merge Assist | 対話型マージコンフリクト解決ツール。各コンフリクトをコンテキスト付きで提示し、ユーザーの選択に従い自動解決する。 |
 | Migration Procedure | 事前件数検証とドライランによる安全なデータ移行手順を定義する。 |
 | Motivational Interviewing | Miller & Rollnick（1991）動機づけ面接 OARS技法。開かれた質問・是認・反映的傾聴・要約でユーザーの内発的動機を引き出す。 |
 | Narrative Elicitation | ナラティブ引き出し法・IME。物語・比喩・仮想シナリオ・対比を通じて、ユーザーが言語化しにくい暗黙知を自然に引き出す。 |
